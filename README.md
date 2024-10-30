@@ -1,4 +1,4 @@
-# Banking System Project
+# Banking System Project [![java](https://img.shields.io/badge/Project-maroon?style=plastic&label=Java&labelColor=gray)](https://www.java.com/en/)
 
 ## Overview
 This Banking System project is a Java-based application that allows users to manage their bank accounts through a graphical user interface (GUI). Users can register, log in, check their balance, deposit money, withdraw money, and transfer funds.
@@ -12,9 +12,9 @@ This Banking System project is a Java-based application that allows users to man
 - **Money Transfer**: Transfer funds between accounts.
 
 ## Technologies Used
-- Java ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-- Swing (for GUI) ![Swing](https://img.shields.io/badge/-gray?style=plastic&logo=java&logoColor=white&logoSize=auto&label=Swing&labelColor=maroon)
-- MySQL (for database management) ![](https://img.shields.io/badge/MySql-gray?style=plastic&logo=mysql&logoColor=white&logoSize=auto&labelColor=indigo)
+- Java [![](https://img.shields.io/badge/Java-orangered?style=plastic&label=Java&labelColor=gray)](https://www.java.com/en/)
+- Swing (for GUI) [![Swing](https://img.shields.io/badge/Swing-teal?style=plastic&label=Java&labelColor=gray)](https://docs.oracle.com/javase/tutorial/uiswing/)
+- MySQL (for database management) [![](https://img.shields.io/badge/SQL-crimson?style=plastic&label=MySql&labelColor=gray)](https://www.mysql.com/)
 
 ## Setup Instructions
 
