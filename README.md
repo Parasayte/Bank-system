@@ -1,3 +1,12 @@
+![Top Language](https://img.shields.io/github/languages/top/Parasayte/Bank-system?style=flat&color=yellowgreen)
+![Repo Size](https://img.shields.io/github/repo-size/Parasayte/Bank-system?style=flat&color=teal)
+![Last Commit](https://img.shields.io/github/last-commit/Parasayte/Bank-system?style=flat&color=gold)
+![Stars](https://img.shields.io/github/stars/Parasayte/Bank-system?style=flat&color=crimson)
+![Forks](https://img.shields.io/github/forks/Parasayte/Bank-system?style=flat&color=purple)
+
+
+
+
 # Banking System Project [![java](https://img.shields.io/badge/Project-maroon?style=plastic&label=Java&labelColor=gray)](https://www.java.com/en/)
 
 ## Overview
