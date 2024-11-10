@@ -1,8 +1,9 @@
-![Top Language](https://img.shields.io/github/languages/top/Parasayte/Bank-system?style=flat&color=yellowgreen)
-![Repo Size](https://img.shields.io/github/repo-size/Parasayte/Bank-system?style=flat&color=teal)
-![Last Commit](https://img.shields.io/github/last-commit/Parasayte/Bank-system?style=flat&color=gold)
-![Stars](https://img.shields.io/github/stars/Parasayte/Bank-system?style=flat&color=crimson)
-![Forks](https://img.shields.io/github/forks/Parasayte/Bank-system?style=flat&color=purple)
+[![Top Language](https://img.shields.io/github/languages/top/Parasayte/Bank-system?style=flat&color=yellowgreen)](https://github.com/Parasayte/Bank-system)
+[![Repo Size](https://img.shields.io/github/repo-size/Parasayte/Bank-system?style=flat&color=teal)](https://github.com/Parasayte/Bank-system)
+[![Last Commit](https://img.shields.io/github/last-commit/Parasayte/Bank-system?style=flat&color=gold)](https://github.com/Parasayte/Bank-system/commits)
+[![Stars](https://img.shields.io/github/stars/Parasayte/Bank-system?style=flat&color=crimson)](https://github.com/Parasayte/Bank-system/stargazers)
+[![Forks](https://img.shields.io/github/forks/Parasayte/Bank-system?style=flat&color=purple)](https://github.com/Parasayte/Bank-system/network/members)
+
 
 
 
